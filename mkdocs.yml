@@ -10,12 +10,17 @@ theme:
 plugins:
   - search
   - mkdocstrings:
-      default_handler: python
       handlers:
+        # See: https://mkdocstrings.github.io/python/usage/
         python:
-          paths: [src]
           options:
             docstring_style: sphinx
+
+markdown_extensions:
+  - markdown_include.include:
+      base_path: .
+  - admonition
+
 nav:
   - Home: index.md
   - Introduction: introduction.md
