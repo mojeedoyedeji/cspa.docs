@@ -35,7 +35,9 @@ print("Hello, World!")
 
 ## Callouts
 
-> **Tip:** Useful information.
+> **Note:** This is a note section similar to Read the Docs style.
+> **Tip:** Useful information for users.
+> **Warning:** Be cautious about this specific actio
 
 ## API Reference
 
