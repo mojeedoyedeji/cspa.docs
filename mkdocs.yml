@@ -1,6 +1,6 @@
-site_name: SwiftDiner Docs
-site_url: https://swfitdiner.readthedocs.io/
-repo_url: https://github.com/mojeedoyedeji/swiftdiner-docs
+site_name: CareerMaple Docs
+site_url: https://careermaple.readthedocs.io/
+repo_url: https://github.com/mojeedoyedeji/careermaple.docs
 docs_dir: docs/source
 theme:
   name: readthedocs
