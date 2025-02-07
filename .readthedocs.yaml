@@ -9,6 +9,7 @@ build:
       - pip install mkdocs
       - pip install mkdocs-material
       - pip install mkdocstrings
+      - pip install markdown-include
 
 python:
   install:
