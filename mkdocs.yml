@@ -10,8 +10,10 @@ theme:
 plugins:
   - search
   - mkdocstrings:
+      default_handler: python
       handlers:
         python:
+          paths: [src]
           options:
             docstring_style: sphinx
 nav:
