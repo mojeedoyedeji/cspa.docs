@@ -1,4 +1,4 @@
-# Welcome to SwiftDiner Docs
+# Welcome to CareerMaple Docs
 
 This is just a small page to test Read the Docs integration with Material for MkDocs
 using the [new Read the Docs Addons](https://github.com/readthedocs/addons).

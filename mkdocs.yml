@@ -1,7 +1,8 @@
 site_name: CareerMaple Docs
 site_url: https://careermaple.readthedocs.io/
 repo_url: https://github.com/mojeedoyedeji/careermaple.docs
-docs_dir: docs/source
+docs_dir: docs/source/content
+
 theme:
   name: readthedocs
   nav_style: dark
@@ -23,57 +24,31 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Template: template.md
-  - Introduction: introduction.md
   - Getting Started:
       - Overview: getting-started/overview.md
-      - System Requirements: getting-started/system-requirements.md
       - Signing Up & Logging In: getting-started/signup-login.md
-      - Navigating the Dashboard: getting-started/dashboard.md
       - User Roles & Permissions: getting-started/user-roles.md
-  - User Guide:
-      - Food SMEs:
-          - Setting up a Business Profile: user-guide/food-sme/profile.md
-          - Managing Menu Items: user-guide/food-sme/menu.md
-          - Receiving & Managing Orders: user-guide/food-sme/orders.md
-          - Payments & Payouts: user-guide/food-sme/payments.md
-          - Customer Communication: user-guide/food-sme/communication.md
-      - Customers:
-          - Searching for Restaurants: user-guide/customers/search.md
-          - Placing Orders: user-guide/customers/orders.md
-          - Tracking Orders: user-guide/customers/tracking.md
-          - Payment Methods & Refunds: user-guide/customers/payments.md
-      - Delivery Services:
-          - Registering as a Partner: user-guide/delivery/register.md
-          - Accepting Delivery Requests: user-guide/delivery/requests.md
-          - Delivery Tracking & Completion: user-guide/delivery/tracking.md
-  - Admin Guide:
-      - Managing Users: admin-guide/users.md
-      - Platform Configuration: admin-guide/config.md
-      - Order & Payment Management: admin-guide/orders-payments.md
-      - Monitoring System Performance: admin-guide/performance.md
-  - API Documentation:
-      - Overview: api-docs/overview.md
-      - Authentication & Authorization: api-docs/auth.md
-      - Endpoints:
-          - Businesses: api-docs/endpoints/businesses.md
-          - Customers: api-docs/endpoints/customers.md
-          - Delivery: api-docs/endpoints/delivery.md
-      - Webhooks & Events: api-docs/webhooks.md
-      - Rate Limits & Errors: api-docs/errors.md
-  - Deployment & Configuration:
-      - Installing SwiftDiners: deployment/install.md
-      - Environment Variables: deployment/env-vars.md
-      - Database Setup & Migrations: deployment/database.md
-      - Hosting & Deployment: deployment/hosting.md
-  - Security & Compliance:
-      - Data Privacy & GDPR: security/privacy.md
-      - Secure Payments: security/payments.md
-      - Authentication & Access Control: security/auth.md
-      - Fraud Prevention: security/fraud.md
-  - Troubleshooting & FAQs:
-      - Common Issues: troubleshooting/issues.md
-      - Contacting Support: troubleshooting/support.md
-      - Reporting Bugs: troubleshooting/bugs.md
+      - Navigating the Dashboard: getting-started/dashboard.md
+      - Wordpress: getting-started/wordpress.md
+  - Institutions:
+      - Alberta: institutions/alberta.md
+      - British Columbia: institutions/british_columbia.md
+      - Manitoba: institutions/manitoba.md
+      - Nova Scotia: institutions/nova_scotia.md
+      - New Brunswick: institutions/new_brunswick.md
+      - Newfoundland and Labrador: institutions/newfoundland.md
+      - Northwest Territories: institutions/northwest.md
+      - Nuvanut: institutions/nuvanut.md
+      - Ontario: institutions/ontario.md
+      - Prince Edwards Island: institutions/pei.md
+      - Quebec: institutions/quebec.md
+      - Sasktachewan: institutions/saskatchewan.md
+      - Yukon: institutions/yukon.md
+  - How to Guides:
+      - Postman:
+          - Account Credentials: guide/postman/account.md
+          - Manage Institutions: guide/postman/institutions.md
+          - Manage Listings: guide/postman/listings.md
   - Contribution Guide:
       - Writing Docs with MkDocs: contribute/mkdocs.md
       - Submitting Changes: contribute/contributing.md
