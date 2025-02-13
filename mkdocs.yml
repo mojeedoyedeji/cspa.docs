@@ -20,39 +20,31 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
-
 nav:
   - Home: index.md
   - Template: template.md
   - Getting Started:
       - Overview: getting-started/overview.md
-      - Signing Up & Logging In: getting-started/signup-login.md
       - User Roles & Permissions: getting-started/user-roles.md
-      - Navigating the Dashboard: getting-started/dashboard.md
-      - Wordpress: getting-started/wordpress.md
-  - Institutions:
-      - Alberta: institutions/alberta.md
-      - British Columbia: institutions/british_columbia.md
-      - Manitoba: institutions/manitoba.md
-      - Nova Scotia: institutions/nova_scotia.md
-      - New Brunswick: institutions/new_brunswick.md
-      - Newfoundland and Labrador: institutions/newfoundland.md
-      - Northwest Territories: institutions/northwest.md
-      - Nuvanut: institutions/nuvanut.md
-      - Ontario: institutions/ontario.md
-      - Prince Edwards Island: institutions/pei.md
-      - Quebec: institutions/quebec.md
-      - Sasktachewan: institutions/saskatchewan.md
-      - Yukon: institutions/yukon.md
+      - Account Credentials: getting-started/account.md
+      - CareerMaple Dashboard: getting-started/dashboard.md
+      - Institutions:
+          - Alberta: institutions/alberta.md
+          - British Columbia: institutions/british_columbia.md
+          - Manitoba: institutions/manitoba.md
+          - Nova Scotia: institutions/nova_scotia.md
+          - New Brunswick: institutions/new_brunswick.md
+          - Newfoundland and Labrador: institutions/newfoundland.md
+          - Northwest Territories: institutions/northwest.md
+          - Nuvanut: institutions/nuvanut.md
+          - Ontario: institutions/ontario.md
+          - Prince Edwards Island: institutions/pei.md
+          - Quebec: institutions/quebec.md
+          - Sasktachewan: institutions/saskatchewan.md
+          - Yukon: institutions/yukon.md
   - How to Guides:
-      - Postman:
-          - Account Credentials: guide/postman/account.md
-          - Manage Institutions: guide/postman/institutions.md
-          - Manage Listings: guide/postman/listings.md
-  - Contribution Guide:
-      - Writing Docs with MkDocs: contribute/mkdocs.md
-      - Submitting Changes: contribute/contributing.md
-      - Version Control & Releases: contribute/versioning.md
+      - Manage Institutions: guide/postman/institutions.md
+      - Manage Listings: guide/postman/listings.md
   - Glossary & References:
       - Key Terms: glossary/terms.md
       - External Resources: glossary/references.md
