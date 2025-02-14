@@ -21,9 +21,13 @@
 
 6.  Fill the basic information including job title, category, job type and description.
 
-7.  In the company section, select the host institution for the listing.
+7.  In _Job Apply Type_, select External Apply. In the _Job apply external_ field, add the link to the posting from the institution website.
 
-8.  Click on "Save as Draft" to save the posting temporarily or "Post Job" to post the listing.
+    ![Add Listing - Step 1](../../../images/add_listing/step2.png)
+
+8.  In the company section, select the host institution for the listing.
+
+9.  Click on "Save as Draft" to save the posting temporarily or "Post Job" to post the listing.
 
 ![Add Listing - Final](../../../images/add_listing/final_step.png)
 
