@@ -2,44 +2,44 @@
 
 ### Universities
 
-| University Name                 | City/Cities                       | Career Website                                                                                 | Email                          |
-| ------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------ |
-| University of Toronto           | Toronto, Mississauga, Scarborough | [careers.utoronto.ca](https://careers.utoronto.ca)                                             | careers@utoronto.ca            |
-| York University                 | Toronto                           | [careers.yorku.ca](https://careers.yorku.ca)                                                   | career@yorku.ca                |
-| Toronto Metropolitan University | Toronto                           | [torontomu.ca/career](https://www.torontomu.ca/career)                                         | career@torontomu.ca            |
-| University of Ottawa            | Ottawa                            | [uottawa.ca/career-development](https://www.uottawa.ca/career-development)                     | careerdev@uottawa.ca           |
-| Carleton University             | Ottawa                            | [carleton.ca/career](https://carleton.ca/career)                                               | career@carleton.ca             |
-| Queen's University              | Kingston                          | [careers.queensu.ca](https://careers.queensu.ca)                                               | careers@queensu.ca             |
-| University of Waterloo          | Waterloo                          | [uwaterloo.ca/career-action](https://uwaterloo.ca/career-action)                               | careeraction@uwaterloo.ca      |
-| Western University              | London                            | [uwo.ca/campus_life/career_services.html](https://www.uwo.ca/campus_life/career_services.html) | career@uwo.ca                  |
-| McMaster University             | Hamilton                          | [careers.mcmaster.ca](https://careers.mcmaster.ca)                                             | careers@mcmaster.ca            |
-| University of Guelph            | Guelph                            | [uoguelph.ca/career](https://www.uoguelph.ca/career)                                           | career@uoguelph.ca             |
-| Laurentian University           | Sudbury                           | [laurentian.ca/career-services](https://laurentian.ca/career-services)                         | careerservices@laurentian.ca   |
-| Lakehead University             | Thunder Bay, Orillia              | [lakeheadu.ca/careerzone](https://www.lakeheadu.ca/careerzone)                                 | careerzone@lakeheadu.ca        |
-| Brock University                | St. Catharines                    | [brocku.ca/ccee/career-education](https://brocku.ca/ccee/career-education)                     | career@brocku.ca               |
-| Trent University                | Peterborough, Oshawa              | [trentu.ca/careers](https://www.trentu.ca/careers)                                             | careers@trentu.ca              |
-| University of Windsor           | Windsor                           | [uwindsor.ca/career-development](https://www.uwindsor.ca/career-development)                   | careerdev@uwindsor.ca          |
-| Nipissing University            | North Bay                         | [nipissingu.ca/career-services](https://www.nipissingu.ca/career-services)                     | careerservices@nipissingu.ca   |
-| Ontario Tech University         | Oshawa                            | [ontariotechu.ca/career-services](https://ontariotechu.ca/career-services)                     | careerservices@ontariotechu.ca |
-| Wilfrid Laurier University      | Waterloo, Brantford               | [wlu.ca/career](https://www.wlu.ca/career)                                                     | career@wlu.ca                  |
-| Algoma University               | Sault Ste. Marie                  | [algomau.ca/career-services](https://algomau.ca/career-services)                               | careerservices@algomau.ca      |
-| OCAD University                 | Toronto                           | [ocadu.ca/career-services](https://www.ocadu.ca/career-services)                               | careerservices@ocadu.ca        |
-| Redeemer University             | Ancaster                          | [redeemer.ca/career-services](https://www.redeemer.ca/career-services)                         | careerservices@redeemer.ca     |
-| King's University College       | London                            | [kings.uwo.ca/career-services](https://www.kings.uwo.ca/career-services)                       | career@kings.uwo.ca            |
-| Brescia University College      | London                            | [brescia.uwo.ca/career-services](https://brescia.uwo.ca/career-services)                       | career@brescia.uwo.ca          |
-| Huron University College        | London                            | [huronuc.ca/career-services](https://huronuc.ca/career-services)                               | career@huronuc.ca              |
+| University Name                 | City/Cities                       | Career Website                                                                                       | Email                          |
+| ------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------ |
+| University of Toronto           | Toronto, Mississauga, Scarborough | [Link](https://jobs.utoronto.ca/)                                                                    | careers@utoronto.ca            |
+| York University                 | Toronto                           | [Link](https://www.yorku.ca/about/careers/#explore)                                                  | career@yorku.ca                |
+| Toronto Metropolitan University | Toronto                           | [Link](https://www.torontomu.ca/careers/)                                                            | career@torontomu.ca            |
+| University of Ottawa            | Ottawa                            | [Link](https://www.uottawa.ca/about-us/careers)                                                      | careerdev@uottawa.ca           |
+| Carleton University             | Ottawa                            | [Link](https://carleton.ca/)                                                                         | career@carleton.ca             |
+| Queen's University              | Kingston                          | [Link](https://www.queensu.ca/humanresources/apply-jobs)                                             | careers@queensu.ca             |
+| University of Waterloo          | Waterloo                          | [Link](https://uwaterloo.ca/careers/current-opportunities)                                           | careeraction@uwaterloo.ca      |
+| Western University              | London                            | [Link](hhttps://recruit.uwo.ca/)                                                                     | career@uwo.ca                  |
+| McMaster University             | Hamilton                          | [Link](https://hr.mcmaster.ca/careers/current-opportunities/)                                        | careers@mcmaster.ca            |
+| University of Guelph            | Guelph                            | [Link](https://careers.uoguelph.ca/)                                                                 | career@uoguelph.ca             |
+| Laurentian University           | Sudbury                           | [Link](https://laurentian.ca/careers)                                                                | careerservices@laurentian.ca   |
+| Lakehead University             | Thunder Bay, Orillia              | [Link](https://www.lakeheadu.ca/faculty-and-staff/departments/services/hr/employment-opportunities/) | careerzone@lakeheadu.ca        |
+| Brock University                | St. Catharines                    | [Link](https://brocku.ca)                                                                            | career@brocku.ca               |
+| Trent University                | Peterborough, Oshawa              | [Link](https://www.trentu.ca/humanresources/employment-opportunities)                                | careers@trentu.ca              |
+| University of Windsor           | Windsor                           | [Link](https://www.uwindsor.ca/)                                                                     | careerdev@uwindsor.ca          |
+| Nipissing University            | North Bay                         | [Link](https://www.nipissingu.ca/careers)                                                            | careerservices@nipissingu.ca   |
+| Ontario Tech University         | Oshawa                            | [Link](https://ontariotechu.csod.com/ux/ats/careersite/4/home/?c=ontariotechu)                       | careerservices@ontariotechu.ca |
+| Wilfrid Laurier University      | Waterloo, Brantford               | [Link](https://wlu.ca/about/working-at-laurier/career-opportunities/index.html)                      | career@wlu.ca                  |
+| Algoma University               | Sault Ste. Marie                  | [Link](https://algomau.ca/careers/)                                                                  | careerservices@algomau.ca      |
+| OCAD University                 | Toronto                           | [Link](https://tre.tbe.taleo.net/tre01/ats/careers/v2/searchResults?org=OCADU&cws=37s)               | careerservices@ocadu.ca        |
+| Redeemer University             | Ancaster                          | [Link](https://www.redeemer.ca/about/careers/)                                                       | careerservices@redeemer.ca     |
+| King's University College       | London                            | [Link](https://recruit.uwo.ca/)                                                                      | career@kings.uwo.ca            |
+| Brescia University College      | London                            | [Link](https://recruit.uwo.ca/)                                                                      | career@brescia.uwo.ca          |
+| Huron University College        | London                            | [Link](https://huronu.ca/about/working-huron/)                                                       | career@huronuc.ca              |
 
 ### Colleges
 
-| College Name         | City/Cities                            | Career Website                                                                                                                                   | Email                                   |
-| -------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| Humber College       | Toronto                                | [Link](https://humber.ca/career-services)                                                                                                        | careers@humber.ca                       |
-| Seneca Polytechnic   | Toronto                                | [Link](https://www.senecacollege.ca/student-services/career-services)                                                                            | career.services@senecacollege.ca        |
-| George Brown College | Toronto                                | [Link](https://www.georgebrown.ca/current-students/services/career-services)                                                                     | career.services@georgebrown.ca          |
-| Centennial College   | Toronto                                | [centennialcollege.ca/student-life/career-services](https://www.centennialcollege.ca/student-life/career-services)                               | career.services@centennialcollege.ca    |
-| Sheridan College     | Oakville, Brampton, Mississauga        | [sheridancollege.ca/student-life/student-services/career-services](https://www.sheridancollege.ca/student-life/student-services/career-services) | sheridanworkscareers@sheridancollege.ca |
-| Fanshawe College     | London                                 | [fanshawec.ca/student-life/campus-services/career-services](https://www.fanshawec.ca/student-life/campus-services/career-services)               | careerservices@fanshawec.ca             |
-| Conestoga College    | Kitchener, Cambridge, Guelph, Waterloo | [conestogac.on.ca/career-services](https://www.conestogac.on.ca/career-services)                                                                 | careerservices@conestogac.on.ca         |
-| Algonquin College    | Ottawa                                 | [algonquincollege.com/careerservices](https://www.algonquincollege.com/careerservices)                                                           | careerservices@algonquincollege.com     |
-| Durham College       | Oshawa, Whitby                         | [durhamcollege.ca/student-life/career-development](https://durhamcollege.ca/student-life/career-development)                                     | careerdevelopment@durhamcollege.ca      |
-| Georgian College     | Barrie, Orillia, Owen Sound            | [georgiancollege.ca/student-life/student-services/career-success](https://www.georgiancollege.ca)                                                | -                                       |
+| College Name         | City/Cities                            | Career Website                                                                                          |
+| -------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Humber College       | Toronto                                | [Link](https://humber.ca/careers/)                                                                      |
+| Seneca Polytechnic   | Toronto                                | [Link](https://tre.tbe.taleo.net/tre01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=42&org=SENECOLL4) |
+| George Brown College | Toronto                                | [Link](https://www.georgebrown.ca/about/employment)                                                     |
+| Centennial College   | Toronto                                | [Link](https://www.centennialcollege.ca/about-centennial/careers)                                       |
+| Sheridan College     | Oakville, Brampton, Mississauga        | [Link](https://www.sheridancollege.ca/careers)                                                          |
+| Fanshawe College     | London                                 | [Link](https://www.fanshawec.ca/about-fanshawe/corporate-info/working-fanshawe)                         |
+| Conestoga College    | Kitchener, Cambridge, Guelph, Waterloo | [Link](https://www.conestogac.on.ca/employment)                                                         |
+| Algonquin College    | Ottawa                                 | [Link](https://www.algonquincollege.com/about/)                                                         |
+| Durham College       | Oshawa, Whitby                         | [Link](https://durham.csod.com/ux/ats/careersite/4/home?c=durham)                                       |
+| Georgian College     | Barrie, Orillia, Owen Sound            | [Link](https://www.georgiancollege.ca/about-georgian/career-opportunities/#current-postings)            |

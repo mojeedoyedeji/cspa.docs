@@ -2,9 +2,9 @@
 
 # Universities
 
-| University Name                     | City       | Career Website                                      | Email                    |
-| ----------------------------------- | ---------- | --------------------------------------------------- | ------------------------ |
-| Memorial University of Newfoundland | St. John's | [Link](https://www.mun.ca/student/career-services/) | careerdevelopment@mun.ca |
+| University Name                     | City       | Career Website                         | Email                    |
+| ----------------------------------- | ---------- | -------------------------------------- | ------------------------ |
+| Memorial University of Newfoundland | St. John's | [Link](https://www.mun.ca/hr/careers/) | careerdevelopment@mun.ca |
 
 # Colleges
 
