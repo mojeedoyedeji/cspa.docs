@@ -1,4 +1,4 @@
-site_name: Canadian Skin Website Docs
+site_name: CSPA Website Docs
 site_url: https://cspadocs.readthedocs.io/
 repo_url: https://github.com/mojeedoyedeji/cspa.docs
 docs_dir: docs/source/content
@@ -17,8 +17,8 @@ plugins:
             docstring_style: sphinx
 
 markdown_extensions:
-  - markdown_include.include:
-      base_path: .
+  #- markdown_include.include:
+  #   base_path: .
   - admonition
 
 nav:
@@ -32,14 +32,31 @@ nav:
           - Header, Footer, Middle: content/homepage/layout.md
           - News Section Setup: content/homepage/news.md
           - Newsletter Embeds: content/homepage/newsletter.md
-      - Skin, Hair and Nails: content/conditions/index.md
-      - About Us Pages: content/about-us/index.md
+      - About Us:
+          - Overview: content/about-us/index.md
+          - Who we are: content/about-us/who-we-are.md
+          - What we do: content/about-us/what-we-do.md
+          - Affiliate members: content/about-us/affiliate-members.md
+          - Sponsors: content/about-us/sponsors.md
+          - Our Network: content/about-us/our-network.md
+      - Skin, Hair and Nails:
+          - Overview: content/conditions/index.md
+      - Education:
+          - Overview: content/education/index.md
+      - Advocacy:
+          - Overview: content/advocacy/index.md
+      - Research:
+          - Overview: content/research/index.md
+      - Advocacy:
+          - Overview: content/conditions/index.md
+      - Get Involved:
+          - Overview: content/get-involved/index.md
+          - Add Patient Stories: content/get-involved/patient-stories.md
+
   - Forms & Integrations:
       - Open Surveys Page: integrations/surveys.md
       - Get the Magazine (Mailchimp): integrations/magazine-signup.md
-  - Get Involved Section:
-      - Overview & Subpages: get-involved/index.md
-      - Add Patient Stories: get-involved/patient-stories.md
+
   - Maintenance:
       - Content Update Checklist: maintenance/content-checklist.md
       - Accessibility & SEO: maintenance/accessibility-seo.md
