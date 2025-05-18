@@ -1,21 +1,21 @@
-# Welcome to CareerMaple Docs
+# Welcome to Canadian Skin Website Docs
 
-Welcome to the **CareerMaple Docs**—your go-to resource for managing job listings, accessing the CareerMaple Dashboard, and navigating the platform with ease. CareerMaple is designed to streamline job postings for universities, colleges, and institutions across Canada, ensuring a seamless connection between employers and job seekers.
+Welcome to the **Canadian Skin Website Documentation**—your comprehensive guide to maintaining, updating, and managing content on [canadianskin.ca](https://www.canadianskin.ca). This resource is designed to assist editors, content managers, and developers in ensuring the website stays current, accessible, and user-friendly for patients, caregivers, and stakeholders.
 
 ###### What You’ll Find Here
 
-- **Step-by-Step Guides**: Learn how to log in, manage job listings, and update employer profiles.
-- **Account Access & Credentials**: Find province-specific email accounts and access guidelines.
-- **Admin Panel Instructions**: Easily navigate the CareerMaple Dashboard.
-- **Best Practices**: Optimize job postings to attract the right candidates.
+- **Step-by-Step Guides**: Learn how to update pages, add surveys, manage the homepage layout, and embed forms.
+- **Content Management**: Instructions for editing sections like _Skin, Hair, and Nails_, _About Us_, and _Get Involved_.
+- **Integrations**: Guidance for automating Mailchimp signups and embedding surveys or newsletters.
+- **Maintenance & Best Practices**: Keep the site compliant, SEO-optimized, and accessible to all users.
 
-###### Getting Started 🛠️
+###### Getting Started
 
-To access the **CareerMaple Dashboard**, ensure you have:
+To access the **Canadian Skin website backend**, you’ll need:
 
-- A valid email account for your province.
-- Credentials authorized by the system administrator.
+- Admin or content editor access credentials.
+- Familiarity with the site structure and update guidelines.
 
-If you need access, **contact the system administrator** to obtain your login details.
+If you require login details or permission updates, **contact the website administrator or support team**.
 
-> **Need Help?** Check out the [support section](#) or reach out to our admin team.
+> **Need Help?** Check out the [support section](#) or reach out to the web team for assistance.

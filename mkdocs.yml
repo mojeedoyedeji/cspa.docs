@@ -1,6 +1,6 @@
-site_name: CareerMaple Docs
-site_url: https://careermaple.readthedocs.io/
-repo_url: https://github.com/mojeedoyedeji/careermaple.docs
+site_name: Canadian Skin Website Docs
+site_url: https://cspadocs.readthedocs.io/
+repo_url: https://github.com/mojeedoyedeji/cspa.docs
 docs_dir: docs/source/content
 
 theme:
@@ -20,30 +20,35 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
+
 nav:
   - Home: index.md
   - Getting Started:
-      - Overview: getting-started/overview.md
-      - User Roles & Permissions: getting-started/user-roles.md
-      - Account Credentials: getting-started/account.md
-      - CareerMaple Dashboard: getting-started/dashboard.md
-      - Institutions:
-          - Alberta: institutions/alberta.md
-          - British Columbia: institutions/british_columbia.md
-          - Manitoba: institutions/manitoba.md
-          - Nova Scotia: institutions/nova_scotia.md
-          - New Brunswick: institutions/new_brunswick.md
-          - Newfoundland and Labrador: institutions/newfoundland.md
-          - Northwest Territories: institutions/northwest.md
-          - Nuvanut: institutions/nuvanut.md
-          - Ontario: institutions/ontario.md
-          - Prince Edwards Island: institutions/pei.md
-          - Quebec: institutions/quebec.md
-          - Sasktachewan: institutions/saskatchewan.md
-          - Yukon: institutions/yukon.md
-  - How to Guides:
-      - Manage Institutions: guide/postman/institutions.md
-      - Manage Listings: guide/postman/listings.md
-  - Glossary & References:
-      - Key Terms: glossary/terms.md
-      - External Resources: glossary/references.md
+      - Introduction: getting-started/introduction.md
+      - Roles & Permissions: getting-started/roles.md
+      - Site Structure Overview: getting-started/structure.md
+  - Content Management:
+      - Homepage:
+          - Header, Footer, Middle: content/homepage/layout.md
+          - News Section Setup: content/homepage/news.md
+          - Newsletter Embeds: content/homepage/newsletter.md
+      - Skin, Hair and Nails: content/conditions/index.md
+      - About Us Pages: content/about-us/index.md
+  - Forms & Integrations:
+      - Open Surveys Page: integrations/surveys.md
+      - Get the Magazine (Mailchimp): integrations/magazine-signup.md
+  - Get Involved Section:
+      - Overview & Subpages: get-involved/index.md
+      - Add Patient Stories: get-involved/patient-stories.md
+  - Maintenance:
+      - Content Update Checklist: maintenance/content-checklist.md
+      - Accessibility & SEO: maintenance/accessibility-seo.md
+      - Link Monitoring: maintenance/link-checker.md
+  - Advanced:
+      - Embedding Third-Party Widgets: advanced/widgets.md
+      - Custom JS/CSS: advanced/custom-code.md
+      - Analytics Integration: advanced/analytics.md
+  - References:
+      - Glossary: references/glossary.md
+      - Contributor Guide: references/contributors.md
+      - Contact & Support: references/support.md
